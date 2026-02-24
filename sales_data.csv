@@ -1,0 +1,6 @@
+OrderID,Region,SalesAmount,OrderDate
+1001,North,500,2024-01-01
+1002,South,700,2024-01-02
+1003,East,300,2024-01-03
+1004,West,900,2024-01-04
+1005,North,450,2024-01-05
